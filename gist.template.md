@@ -10,7 +10,7 @@ In this tutorial, we will examine the various components of a Hex Value Regex. A
 
 **Table of Contents**
 
-[Anchors](https://github.com/fderosier/Regex-Tutorial/blob/main/gist-template.md#anchors)
+[Anchors](https://github.com/fderosier/Regex-Tutorial/blob/main/gist-template.md)
 
 [Quantifiers](https://github.com/fderosier/Regex-Tutorial/blob/main/gist-template.md#quantifiers)
 
@@ -20,7 +20,7 @@ In this tutorial, we will examine the various components of a Hex Value Regex. A
 
 [Character Classes](https://github.com/fderosier/Regex-Tutorial/blob/main/gist-template.md#character-classes)
 
-[The OR Operator](https://github.com/fderosier/Regex-Tutorial/blob/main/gist-template.md#the-or-operator)
+[The OR Operator](https://github.com/fderosier/regex-example/main/gist-template.md#the-or-operator)
 
 [Flags](https://github.com/fderosier/Regex-Tutorial/blob/main/gist-template.md#flags)
 
