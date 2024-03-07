@@ -1,8 +1,8 @@
-**Hex Value Regex Tutorial**
+# Hex Value Regex Tutorial
 
 Regular expressions, commonly abbreviated as Regex, serve the purpose of parsing and specifying the criteria for text searches. They encompass a range of elements, including literals for exact matches and meta characters for identifying specific types of characters. Regular expressions comprise distinct components that facilitate the exploration of text patterns.
 
-**Summary**
+# **Summary**
 
 
 In this tutorial, we will examine the various components of a Hex Value Regex. A Hex Value Regex specifies the permissible characters for identifying a hexadecimal color. This is particularly useful in coding tasks to ensure the inclusion of required characters and to notify the user of invalid inputs. We will delve into the following regex:
